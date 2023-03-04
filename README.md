@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Nefeli
 
-<!--
+
 **NEFG19/NEFG19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 As a passionate Electrical Engineering and Computer Science student, I'm always excited to take on complex challenges and build innovative solutions. 
@@ -16,7 +16,7 @@ While these are areas of particular interest to me, I'm always open to learning 
 
 Here are some ideas to get you started:
 
-🔭 #**Current Projects**
+🔭 **##Current Projects**
 
 
 - 🌱 I’m currently learning ...
