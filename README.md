@@ -4,7 +4,7 @@ As a passionate Electrical Engineering and Computer Science student, I'm always 
 I have 4 years of experience working on various projects, both independently and as part of a team. 
 My interests span a wide range of areas, including Signal Processing, IT, FPGAs and hardware implementations, machine learning, and artificial intelligence. 
 However, I'm always eager to expand my knowledge and explore new technologies!
-
+<br/><br/>
 
 ## 🔭 Current Projects
 Here are some of my current projects that I'm actively working on:
