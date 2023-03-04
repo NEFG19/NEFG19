@@ -20,9 +20,6 @@ Feel free to reach out to me via:
 
 I'm always open to discussing new projects and ideas.
 
-<br/><br/>
-
-
 <!-- #### 🔭 Current Projects
 Here are some of my current projects that I'm actively working on:
 - **<ins>Project 1</ins>**: ADXL362 Accelerometer Driver  
