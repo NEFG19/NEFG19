@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Nefeli
 
 As an Electrical Engineering and Computer Science student, I'm always excited to take on complex challenges and build innovative solutions. 
-I have 4 years of experience working on various projects, both independently and as part of a team. 
+I have 5 years of experience working on various projects, both independently and as part of a team. 
 I'm always eager to expand my knowledge and explore new technologies!
 <br/><br/>
 
